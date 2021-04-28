@@ -1,4 +1,4 @@
-# Bringing in elements during scroll event using CSS
+# Bringing in elements during scroll event using CSS and Javascript
 
 # Live Link
 
