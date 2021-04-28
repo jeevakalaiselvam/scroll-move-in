@@ -7,6 +7,7 @@ window.addEventListener("scroll", bringInCards);
 bringInCards();
 
 /**
+ * @author Jeeva Kalaiselvam
  * This function checks if the user has scrolled the window to a certain threshold and checks if any card is present in that range, If yes, It uses CSS3 animation to bring in them into view
  */
 function bringInCards() {
