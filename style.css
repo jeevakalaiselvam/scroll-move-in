@@ -23,7 +23,7 @@ body {
     padding: 1rem;
     background-color: white;
     width: 300px;
-    transition: transform 10s ease;
+    transition: transform 0.5s ease;
 }
 
 .card:nth-child(even) {
